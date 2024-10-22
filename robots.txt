@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://flumumpr.github.io/flumumpr.flumumpr
+Sitemap: https://flumumpr.github.io/app/flumumpr.flumumpr
+Sitemap: https://flumumpr.github.io/assets/flumumpr.flumumpr
+Sitemap: https://flumumpr.github.io/css/flumumpr.flumumpr
+Sitemap: https://flumumpr.github.io/includes/flumumpr.flumumpr
+Sitemap: https://flumumpr.github.io/item/flumumpr.flumumpr
+Sitemap: https://flumumpr.github.io/src/flumumpr.flumumpr
